@@ -7,5 +7,6 @@ TensorFlow机器学习实战指南
 ## [04 基于TensorFlow 的支持向量机](./chapter04)
 ## [05 最近邻域法](./chapter05)
 ## [06 神经网络算法](./chapter06)
+## [07 自然语言处理](./chapter07)
 
 
