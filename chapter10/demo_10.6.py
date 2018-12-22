@@ -87,7 +87,7 @@ def main(args):
 if __name__ == '__main':
     if FLAGS.run_unit_tests:
         # Perform unit tests
-        tf.tes.main()
+        tf.test.main()
     else:
         # Run evaluation
         tf.app.run()
