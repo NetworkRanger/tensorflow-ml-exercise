@@ -9,5 +9,8 @@ TensorFlow机器学习实战指南
 ## [06 神经网络算法](./chapter06)
 ## [07 自然语言处理](./chapter07)
 ## [08 卷积神经网络](./chapter08)
+## [09 递归神经网络](./chapter09)
+## [10 TensorFlow产品化](./chapter10)
+## [11 TensorFlow的进阶应用](./chapter11)
 
 
